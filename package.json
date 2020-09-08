@@ -1,0 +1,21 @@
+{
+  "name": "vue3-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.9.0",
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "@vue/test-utils": "^2.0.0-beta.3",
+    "jest": "^24.9.0",
+    "typescript": "^3.9.7",
+    "vite": "^1.0.0-rc.1",
+    "vue-jest": "^5.0.0-alpha.3"
+  }
+}
